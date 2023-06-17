@@ -1,0 +1,12 @@
+[
+  {"nama": "Black Clover", "genre": "Action, Fantasy, Anime", "imageId": "black_clover"},
+  {"nama": "Cars 3", "genre": "Fantasy, Kids & Family", "imageId": "cars"},
+  {"nama": "Fast 9: Furious Saga", "genre": "Action, Romance", "imageId": "fast"},
+  {"nama": "John Wick 3: Parabellum", "genre": "Crime, Action, US", "imageId": "john_wick"},
+  {"nama": "Mission Impossible: Dead Reckoning", "genre": "Action, Spy Movies, US", "imageId": "mission"},
+  {"nama": "The Amazing Spiderman", "genre": "Sci-Fi, Action, Family Movies", "imageId": "spiderman"},
+  {"nama": "Terminator: Genisys", "genre": "Sci-Fi, Action, US", "imageId": "terminator"},
+  {"nama": "Titanic", "genre": "Romance, Documentaries, Reality", "imageId": "titanic"},
+  {"nama": "Venom", "genre": "Thriller, Action, Fantasy", "imageId": "venom"},
+  {"nama": "White House Down", "genre": "Action, US", "imageId": "white_house"}
+]
